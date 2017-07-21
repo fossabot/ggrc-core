@@ -1,7 +1,8 @@
 {
   "summary": {
     "title": "First TD-DM",
-    "owner": "ME"
+    "owner": "ME",
+    "description": "TEST System description"
   },
   "detail": {
     "contributors": [],

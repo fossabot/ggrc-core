@@ -2,6 +2,7 @@ Governance, Risk and Compliance (GGRC)
 =========
 
 [![Build Status](https://jenkins.reciprocitylabs.com/job/ggrc_develop_build/badge/icon)](https://jenkins.reciprocitylabs.com/job/ggrc_develop_build/)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHLD%2Fggrc-core.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHLD%2Fggrc-core?ref=badge_shield)
 
 Governance, Risk Management, and Compliance are activities necessary for any organization with regulatory or contractual obligations.
 
@@ -453,3 +454,7 @@ Copyright (C) 2013-2016 Google Inc., authors, and contributors (see the AUTHORS
 file).
 Licensed under the [Apache 2.0](http://www.apache.org/licenses/LICENSE-2.0)
 license (see the LICENSE file).
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHLD%2Fggrc-core.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHLD%2Fggrc-core?ref=badge_large)
